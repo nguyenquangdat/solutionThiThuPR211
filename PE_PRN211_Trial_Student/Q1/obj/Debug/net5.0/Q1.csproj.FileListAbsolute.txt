@@ -1,0 +1,16 @@
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.csproj.AssemblyReference.cache
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\Q1.exe
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\Q1.deps.json
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\Q1.runtimeconfig.json
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\Q1.dll
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\ref\Q1.dll
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\bin\Debug\net5.0\Q1.pdb
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.dll
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\ref\Q1.dll
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.pdb
+C:\Users\This MC\OneDrive\Desktop\All (2)\All\PE_PRN211_Trial_Student\Q1\obj\Debug\net5.0\Q1.genruntimeconfig.cache
